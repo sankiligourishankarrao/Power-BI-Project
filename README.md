@@ -1,5 +1,7 @@
 # Power-BI-Project
 
+Project Title :Inchcape_Human Resource_Management_Analysis 
+
 In this project, 
 I built a multi-page HR analytics dashboard in Power BI for Inchcape plc, a global leader in premium and luxury automotive distribution and retail with operations across multiple regions and headquarters in London. 
 The goal was to support strategic, tactical, and predictive decision making through dynamic dashboards and scorecards focused on employee and business performance.
